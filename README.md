@@ -1,6 +1,6 @@
 ### Hi, I'm Gautam 👋
 
-I'm a Python developer with a focus on building real-world machine learning & deep learning solutions. My current work revolves around solving problems in the domain of Computer Vision.
+I'm a Python developer with a focus on building real-world deep learning solutions. My current work revolves around solving problems in the domain of Computer Vision.
 
 #### What I’m Interested In:
 - Natural Language Processing (NLP)
