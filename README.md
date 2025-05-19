@@ -16,7 +16,7 @@ I'm a Python developer with a focus on building real-world deep learning solutio
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-menon-9a30a3233/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](menon.gautam.13@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-%23018EF5?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1raXuZzfiD5MlogquxjJc20_uD5xfJETD/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-%23018EF5?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1G5bYWKbIBLdZafE_krfFmXSgzZ59H-7t/view?usp=drive_link)
 [![Kaggle](https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge)](https://www.kaggle.com/gautamrmenon)
 
 
